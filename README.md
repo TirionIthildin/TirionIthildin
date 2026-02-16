@@ -22,14 +22,13 @@
 
 ## 🛠 What I'm building
 
-| Product | What it is |
-|--------|------------|
-| **[Nimlos](https://ithildin.co/products)** | Discord + Roblox management for clans — verification, role sync, anti-nuke, moderation, XP & medals, tickets |
-| **[Woolny](https://ithildin.co/products)** | Self-hostable E2EE email (ProtonMail/Skiff–inspired), zero-knowledge, your keys |
-| **[Erebor](https://ithildin.co/products)** | E2EE Discord alternative — Rust backend + Leptos/WASM, SRP-6a auth, MLS & Double Ratchet |
-| **[Search](https://ithildin.co/products)** | Records search engine — Solr, multi-field search, SRP auth, Next.js + TypeScript |
+- **[Nimlos](https://ithildin.co/products)** — Discord + Roblox management for clans (verification, role sync, anti-nuke, moderation, XP & medals, tickets)
+- **[Woolny](https://ithildin.co/products)** — Self-hostable E2EE email (ProtonMail/Skiff–inspired), zero-knowledge, your keys
+- **[Erebor](https://ithildin.co/products)** — E2EE Discord alternative (Rust + Leptos/WASM, SRP-6a auth, MLS & Double Ratchet)
+- **[Search](https://ithildin.co/products)** — Records search engine (Solr, multi-field search, SRP auth, Next.js + TypeScript)
+- **[RustPress](https://github.com/TirionIthildin/RustPress)** — Rust-based CMS, WordPress-inspired, fast and self-hostable
 
-*More on [ithildin.co/products](https://ithildin.co/products)*
+*More on [ithildin.co](https://ithildin.co)*
 
 ---
 
