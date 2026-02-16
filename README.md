@@ -1,13 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&text=Hi%20there%20👋&fontSize=40&fontColor=fff" />
-</p>
-
 <h1 align="center">Tirion Ithildin</h1>
-<h3 align="center">✦ where light meets script ✦</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=7c3aed&center=true&vCenter=true&width=440&lines=Building+things+that+matter;Code+%7C+Design+%7C+Ideas" alt="Typing SVG" />
-</p>
 
 ---
 
