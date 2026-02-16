@@ -11,9 +11,11 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
 ## 👋 About me
 
-- 🔭 Building at **[Ithildin Co.](https://ithildin.co/products)** — tools for Roblox, Discord, and privacy
+- 📍 **Florida, US**
+- 🔭 Building at **[Ithildin Co.](https://ithildin.co/)** — tools for Roblox, Discord, and privacy
 - ⚡ **Spun up my first VPS at age 13 to run a forum for my Minecraft server. 7+ years later here I am.**
 
 ---
