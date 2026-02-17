@@ -20,6 +20,14 @@
 
 ---
 
+## 🖥️ Currently using
+
+- 🌐 **Dia Browser** — AI browser from the makers of Arc; chat with your tabs ([diabrowser.com](https://www.diabrowser.com/))
+- 📧 **ProtonMail** — E2EE email
+- 🔐 **ProtonPass** — password manager
+
+---
+
 ## 🛠 What I'm building
 
 - 🎮 **[Nimlos](https://ithildin.co/products)** — Discord + Roblox management for clans (verification, role sync, anti-nuke, moderation, XP & medals, tickets)
