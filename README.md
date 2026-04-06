@@ -34,17 +34,30 @@ I spun up my first VPS at 13 to run a forum for my Minecraft server. Seven years
 
 ## 🎯 Primary focus
 
-- 🖥️ **[Dread.lol](https://dread.lol)** — Terminal-themed member profiles; Next.js (App Router), Discord OAuth, MongoDB + Valkey + SeaweedFS, Polar subscriptions
+- 🖥️ **[Dread.lol](https://dread.lol)** — Terminal-themed member profiles; Next.js (App Router), Discord OAuth, MongoDB + Valkey + SeaweedFS, Polar subscriptions · [repo](https://github.com/TirionIthildin/dread.lol)
 
 ---
 
-## 🛠 What I'm building
+## 📦 Repositories
+
+*Forks omitted.*
+
+- **[dread.lol](https://github.com/TirionIthildin/dread.lol)** — The full stack for dread. (TypeScript)
+- **[cia-website](https://github.com/TirionIthildin/cia-website)** — (Rust)
+- **[dread-platform](https://github.com/TirionIthildin/dread-platform)** — Platform made truly for gamers. Ultra-stable and secure. (Rust, MIT)
+- **[grapevine](https://github.com/TirionIthildin/grapevine)** — Ultra-stable, fast short-form video platform. (Rust)
+- **[Vamp](https://github.com/TirionIthildin/Vamp)** — Rust-native bulletin board with E2EE chats. (Rust)
+- **[search](https://github.com/TirionIthildin/search)** — Records search engine (Solr, multi-field search, SRP auth, Next.js + TypeScript). (Apache-2.0)
+- **[kryto-engine](https://github.com/TirionIthildin/kryto-engine)** — (Luau)
+- **[Erebor](https://github.com/TirionIthildin/Erebor)** — E2EE Discord alternative (Rust + Leptos/WASM, SRP-6a, MLS & Double Ratchet).
+- **[RustPress](https://github.com/TirionIthildin/RustPress)** — Rust-based WordPress vulnerability scanner.
+
+---
+
+## 🛠 Products & sites
 
 - 🎮 **[Nimlos](https://ithildin.co/products)** — Discord + Roblox management for clans (verification, role sync, anti-nuke, moderation, XP & medals, tickets)
 - 📧 **[Woolny](https://ithildin.co/products)** — Self-hostable E2EE email (ProtonMail/Skiff–inspired), zero-knowledge, your keys
-- 💬 **[Erebor](https://ithildin.co/products)** — E2EE Discord alternative (Rust + Leptos/WASM, SRP-6a auth, MLS & Double Ratchet)
-- 🔍 **[Search](https://ithildin.co/products)** — Records search engine pointed at personal information (Solr, multi-field search, SRP auth, Next.js + TypeScript)
-- 🔒 **[RustPress](https://github.com/TirionIthildin/RustPress)** — Rust tool to scan for vulnerabilities, exposed pages, and security issues
 - 🌐 **[Ithildin website](https://ithildin.co/)** — Ithildin Co. platform site (Next.js, React, Serwist PWA)
 
 ---
