@@ -12,11 +12,15 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## 👋 About me
+## About me
 
-- 📍 **Florida, US**
-- 🔭 Building at **[Ithildin Co.](https://ithildin.co/)** — tools for Roblox, Discord, and privacy
-- ⚡ **Spun up my first VPS at age 13 to run a forum for my Minecraft server. 7+ years later here I am.**
+**Florida, US** · **[Ithildin Co.](https://ithildin.co/)** — tools for Roblox, Discord, and privacy.
+
+I spun up my first VPS at 13 to run a forum for my Minecraft server. Seven years later, still shipping and self-hosting.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TirionIthildin&style=flat-square&color=7c3aed" alt="Profile views" />
+</p>
 
 ---
 
@@ -44,23 +48,6 @@
 - 🌐 **[Ithildin website](https://ithildin.co/)** — Ithildin Co. platform site (Next.js, React, Serwist PWA)
 
 ---
-
-## 📊 Profile stats
-
-<p align="center">
-  <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=TirionIthildin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" width="400" />
-  <img src="https://streak-stats.demolab.com/?user=TirionIthildin&theme=radical&hide_border=true" alt="Streak" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=TirionIthildin&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TirionIthildin&style=flat-square&color=7c3aed" alt="Profile views" />
-</p>
 
 <p align="center">
   <sub>✦ Tirion Ithildin</sub>
