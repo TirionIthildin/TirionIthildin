@@ -22,9 +22,15 @@
 
 ## 🖥️ Currently using
 
-- 🌐 **Dia Browser** — AI browser from the makers of Arc; chat with your tabs ([diabrowser.com](https://www.diabrowser.com/))
-- 📧 **ProtonMail** — E2EE email
-- 🔐 **ProtonPass** — password manager
+- 🌐 **Zen Browser** — privacy-focused Firefox fork ([zen-browser.app](https://zen-browser.app/))
+- 🧩 **Browser extensions** — SponsorBlock, DeArrow, uBlock Origin Light
+- 🔒 **Proton** — Mail, Pass, VPN, and the rest of the Proton ecosystem
+
+---
+
+## 🎯 Primary focus
+
+- 🖥️ **[Dread.lol](https://dread.lol)** — Terminal-themed member profiles; Next.js (App Router), Discord OAuth, MongoDB + Valkey + SeaweedFS, Polar subscriptions
 
 ---
 
@@ -35,6 +41,7 @@
 - 💬 **[Erebor](https://ithildin.co/products)** — E2EE Discord alternative (Rust + Leptos/WASM, SRP-6a auth, MLS & Double Ratchet)
 - 🔍 **[Search](https://ithildin.co/products)** — Records search engine pointed at personal information (Solr, multi-field search, SRP auth, Next.js + TypeScript)
 - 🔒 **[RustPress](https://github.com/TirionIthildin/RustPress)** — Rust tool to scan for vulnerabilities, exposed pages, and security issues
+- 🌐 **[Ithildin website](https://ithildin.co/)** — Ithildin Co. platform site (Next.js, React, Serwist PWA)
 
 ---
 
